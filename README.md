@@ -1,8 +1,8 @@
-💫 About Me:
+💫 About Me: <br/>
 💼   Full stack web developer with 1.5 years of experience working on different projects.<br>🎓   Studying Computer Science and Engineering at LNCT, Bhopal.<br>🌱   Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.<br>
 
 
-💻 Tech Stack:
+💻 Tech Stack: <br/>
 languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) DSA
