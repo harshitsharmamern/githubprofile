@@ -35,10 +35,8 @@ Machine Learning
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harshitsharmamern&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsharmamern&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
